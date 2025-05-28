@@ -12,17 +12,18 @@
   - index.js: React 앱의 진입점
   - index.css: Tailwind CSS 스타일
 
-# 사용 데이터
-  - 카카오맵 API
-  - 네이버 지도 연동
-  - 공공 데이터 포털, 서울시 구청별 의류수거함 CSV
-
-#BackEnd 주요 의존성
+# BackEnd 주요 의존성
   
   - FastAPI
   - pandas
   - uvicorn  
   - chardet
+
+# 사용 데이터
+
+  - 카카오맵 API
+  - 네이버 지도 연동
+  - 공공 데이터 포털, 서울시 구청별 의류수거함 CSV
 
 # 주요 기능
 
